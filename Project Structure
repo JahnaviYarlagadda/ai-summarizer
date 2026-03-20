@@ -1,0 +1,7 @@
+ai-summarizer/
+  index.js
+  llm.js
+  prompt.js
+  package.json
+  .env.example
+  README.md
